@@ -1,0 +1,30 @@
+1g
+2g
+3g
+4r
+5ra
+6g
+7a
+8a (turning off)
+9g
+10g
+11g
+12g (red in background)
+13r
+14r
+
+g_total = 8
+r_total == 3/4
+a_total = 2/3
+
+red
+upper
+70, 120, 255
+lower
+10, 80, 255
+
+amber
+upper
+80, 255, 255
+lower
+30, 255, 255
